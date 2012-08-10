@@ -28,6 +28,7 @@ group :test do
   gem 'rb-notifu'
   gem 'win32console'
   gem 'spork'
+  gem 'factory_girl_rails'
 end
 
 group :production do
